@@ -1,0 +1,16 @@
+com.earnipay.photo_task.earnipay_task.app-jetified-window-1.0.0-beta04-0 /Users/user/.gradle/caches/transforms-3/196fed55f097d803ed8689c12e879c52/transformed/jetified-window-1.0.0-beta04/res
+com.earnipay.photo_task.earnipay_task.app-jetified-window-java-1.0.0-beta04-1 /Users/user/.gradle/caches/transforms-3/7c3f00c2335771859546f46efeddbf13/transformed/jetified-window-java-1.0.0-beta04/res
+com.earnipay.photo_task.earnipay_task.app-core-1.6.0-2 /Users/user/.gradle/caches/transforms-3/89766d7d59fc7fc8d6e3690bb36b7e4a/transformed/core-1.6.0/res
+com.earnipay.photo_task.earnipay_task.app-jetified-annotation-experimental-1.1.0-3 /Users/user/.gradle/caches/transforms-3/cba5034dea4c669b2d400a2c38d489c3/transformed/jetified-annotation-experimental-1.1.0/res
+com.earnipay.photo_task.earnipay_task.app-debug-4 /Users/user/StudioProjects/earnipay_task/android/app/src/debug/res
+com.earnipay.photo_task.earnipay_task.app-main-5 /Users/user/StudioProjects/earnipay_task/android/app/src/main/res
+com.earnipay.photo_task.earnipay_task.app-pngs-6 /Users/user/StudioProjects/earnipay_task/build/app/generated/res/pngs/debug
+com.earnipay.photo_task.earnipay_task.app-resValues-7 /Users/user/StudioProjects/earnipay_task/build/app/generated/res/resValues/debug
+com.earnipay.photo_task.earnipay_task.app-rs-8 /Users/user/StudioProjects/earnipay_task/build/app/generated/res/rs/debug
+com.earnipay.photo_task.earnipay_task.app-mergeDebugResources-9 /Users/user/StudioProjects/earnipay_task/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.earnipay.photo_task.earnipay_task.app-mergeDebugResources-10 /Users/user/StudioProjects/earnipay_task/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.earnipay.photo_task.earnipay_task.app-merged_res-11 /Users/user/StudioProjects/earnipay_task/build/app/intermediates/merged_res/debug
+com.earnipay.photo_task.earnipay_task.app-packaged_res-12 /Users/user/StudioProjects/earnipay_task/build/path_provider_android/intermediates/packaged_res/debug
+com.earnipay.photo_task.earnipay_task.app-packaged_res-13 /Users/user/StudioProjects/earnipay_task/build/shared_preferences_android/intermediates/packaged_res/debug
+com.earnipay.photo_task.earnipay_task.app-packaged_res-14 /Users/user/StudioProjects/earnipay_task/build/sqflite/intermediates/packaged_res/debug
+com.earnipay.photo_task.earnipay_task.app-packaged_res-15 /Users/user/StudioProjects/earnipay_task/build/url_launcher_android/intermediates/packaged_res/debug
