@@ -3,6 +3,7 @@ import 'package:earnipay_task/app/di/injector.dart';
 import 'package:earnipay_task/data/model/remote/PhotoApiResponse.dart';
 import 'package:earnipay_task/data/remote/service/photo/photo_service.dart';
 import 'package:earnipay_task/data/repository/photo_repository.dart';
+import 'package:earnipay_task/presentation/photos/photos_view_model.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:retrofit/dio.dart';
@@ -14,8 +15,10 @@ void main(){
   initializeDependencies();
   late PhotoRepository photoRepository;
   MockPhotoService mockPhotoService = MockPhotoService();
+  late PhotoViewModel photoViewModel;
   setUp((){
     photoRepository = PhotoRepository(mockPhotoService);
+    photoViewModel = PhotoViewModel();
   });
 
   group("getPhotos", () {
