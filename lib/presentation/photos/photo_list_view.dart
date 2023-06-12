@@ -58,7 +58,7 @@ class PhotoListView extends StatelessWidget {
                       child: const SizedBox(
                         height: 24,
                         width: 24,
-                        child: CupertinoActivityIndicator(),
+                        child: CircularProgressIndicator(),
                       ),
                     ),
                   );
